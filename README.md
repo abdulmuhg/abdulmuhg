@@ -2,7 +2,7 @@
 Android Developer | Kotlin Enthusiast
 
 ## 🚀 About Me
-- 👨‍💻 I'm currently working on ![Tabsquare.ai] (tabsquare.ai)
+- 👨‍💻 I'm currently working on (![Tabsquare.ai] (tabsquare.ai))
 - 🌱 Learning: [Something you're learning, e.g., Jetpack Compose, KMP]
 - 💬 Ask me about Android, Kotlin, and Mobile Development
 
@@ -21,6 +21,7 @@ Android Developer | Kotlin Enthusiast
 - Datadog
 - Crashlytics
 
+<!--
 ## 📱 Featured Projects
 ### [Project Name 1]
 Brief description of the project, technologies used, and your role.
@@ -29,6 +30,7 @@ Brief description of the project, technologies used, and your role.
 ### [Project Name 2]
 Another project description.
 [Link to repo/demo]
+-->
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -40,11 +42,11 @@ Another project description.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmughniaf/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/abdulmuhg)
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST 
 ## 📝 Latest Blog Posts
 - [Blog Post 1]
 - [Blog Post 2]
-<!-- BLOG-POST-LIST:END -->
+-->
 
 ## 🏆 GitHub Trophies
 ![Thropies](https://github-profile-trophy.vercel.app/?username=abdulmuhg&theme=radical&no-frame=false&no-bg=true&margin-w=4)
