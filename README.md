@@ -27,7 +27,7 @@ Android Developer | Kotlin Enthusiast
 ### [Project Name 1]
 Brief description of the project, technologies used, and your role.
 [Link to repo/demo]
-
+![Android CI](https://github.com/abdulmuhg/YourRepo/workflows/Android%20CI/badge.svg)
 ### [Project Name 2]
 Another project description.
 [Link to repo/demo]
