@@ -1,9 +1,7 @@
-# 👋 Hi, I'm Abdul - Software Engineer
-Android Developer | Kotlin Enthusiast
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Abdul+Mughni....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Abdul+Mughni....;Nice+to+meet+you!&center=false&size=30">
 </h1>
+# 👋 Hi, I'm Abdul - Software Engineer
 
 ## 🚀 About Me
 - 👨‍💻 I'm currently working at [Tabsquare.ai](https://tabsquare.ai)
@@ -12,7 +10,7 @@ Android Developer | Kotlin Enthusiast
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmuhg&layout=compact&theme=radical" />
 </p>
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
