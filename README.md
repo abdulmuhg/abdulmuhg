@@ -1,7 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Abdul+Mughni....;Nice+to+meet+you!&center=false&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Abdul+Mughni....;Nice+to+meet+you!&left=true&size=36">
 </h1>
-# 👋 Hi, I'm Abdul - Software Engineer
+## 👋 Hi, I'm Abdul, Software Engineer and mostly working on mobile apps development
 
 ## 🚀 About Me
 - 👨‍💻 I'm currently working at [Tabsquare.ai](https://tabsquare.ai)
