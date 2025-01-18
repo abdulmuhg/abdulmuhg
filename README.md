@@ -2,15 +2,16 @@
 Android Developer | Kotlin Enthusiast
 
 ## 🚀 About Me
-- 👨‍💻 I'm currently working on (![Tabsquare.ai] (tabsquare.ai))
-- 🌱 Learning: [Something you're learning, e.g., Jetpack Compose, KMP]
+- 👨‍💻 I'm currently working at [Tabsquare.ai](https://tabsquare.ai)
+- 🌱 Learning: Kotlin, Jetpack Compose, KMP
 - 💬 Ask me about Android, Kotlin, and Mobile Development
 
 ## 💻 Tech Stack
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ## 🛠️ Tools & Frameworks
 - Dagger Hilt
