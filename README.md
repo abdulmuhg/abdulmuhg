@@ -33,18 +33,18 @@ Another project description.
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdulmuhg&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=abdulmuhg&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulmuhg&theme=dark" alt="GitHub Streak" />
 </p>
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmughniaf/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/abdulmuhg)
 
-## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+## 📝 Latest Blog Posts
 - [Blog Post 1]
 - [Blog Post 2]
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abdulmuhg&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![Thropies](https://github-profile-trophy.vercel.app/?username=abdulmuhg&theme=radical&no-frame=false&no-bg=true&margin-w=4)
