@@ -1,16 +1,13 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&duration=2500&pause=600&color=24A5F7&background=FFFFFF00&vCenter=true&width=435&lines=%F0%9F%91%8BHello+there%2C+Nice+to+meet+you!">
-</h1>
+## 👋Hi, I'm Abdul, Software Engineer
+Mostly working on mobile apps development
 
-## 👋Hi, I'm Abdul, Software Engineer and mostly working on mobile apps development
-
-## 🚀 About Me
+## 🚀 About
 - 👨‍💻 I'm currently working at [Tabsquare.ai](https://tabsquare.ai)
 - 🌱 Learning: Kotlin, Jetpack Compose, KMP
 - 💬 Ask me about Android, Kotlin, and Mobile Development
 
-## 💻 Tech Stack
-<p align="center">
+## 💻 Stack
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmuhg&layout=compact&theme=radical" />
 </p>
 
@@ -41,7 +38,7 @@ Another project description.
 -->
 
 ## 📊 GitHub Stats
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=abdulmuhg&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulmuhg&theme=dark" alt="GitHub Streak" />
 </p>
