@@ -1,12 +1,20 @@
 # 👋 Hi, I'm Abdul - Software Engineer
 Android Developer | Kotlin Enthusiast
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Abdul+Mughni....;Nice+to+meet+you!&center=true&size=30">
+</h1>
+
 ## 🚀 About Me
 - 👨‍💻 I'm currently working at [Tabsquare.ai](https://tabsquare.ai)
 - 🌱 Learning: Kotlin, Jetpack Compose, KMP
 - 💬 Ask me about Android, Kotlin, and Mobile Development
 
 ## 💻 Tech Stack
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" />
+</p>
+
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -38,6 +46,9 @@ Another project description.
   <img src="https://github-readme-stats.vercel.app/api?username=abdulmuhg&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulmuhg&theme=dark" alt="GitHub Streak" />
 </p>
+
+## Latest Activity
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmughniaf/)
