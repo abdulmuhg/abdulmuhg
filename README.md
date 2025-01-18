@@ -8,7 +8,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&theme=radical&show_icons=true)
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdulmuhg&theme=dark)
 
 ## 👀 Profile Views
 ![](https://komarev.com/ghpvc/?username=YourUsername&color=green)
