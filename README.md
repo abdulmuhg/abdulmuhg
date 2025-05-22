@@ -2,8 +2,7 @@
 Mostly working on mobile apps development
 
 ## 🚀 About
-- 👨‍💻 I'm currently working at [Tabsquare.ai](https://tabsquare.ai)
-- 🌱 Learning: Kotlin, Jetpack Compose, KMP
+- 🌱 Learning: Kotlin, Jetpack Compose
 - 💬 Ask me about Android, Kotlin, and Mobile Development
 
 ## 💻 Stack
