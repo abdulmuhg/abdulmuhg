@@ -14,18 +14,16 @@
 ---
 
 ## 🚀 About Me
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
 
 - 🔭 I'm currently working on **cutting-edge Android applications**
-- 🌱 I'm deepening my expertise in **Kotlin Multiplatform & Jetpack Compose**
+- 🌱 I'm deepening my expertise in **Kotlin Multiplatform & Backend**
 - 👯 I'm looking to collaborate on **innovative mobile projects**
 - 💬 Ask me about **Android, Kotlin, Clean Architecture, and Mobile Development**
 
 <br clear="right"/>
 
 ## 💻 Tech Stack
-
 ### 📱 Mobile Development
 <p align="left">
   <picture>
@@ -121,17 +119,17 @@
 
 ## 🏆 GitHub Achievements
 
-<div align="center">
+<div align="left">
   <picture>
     <source 
-      srcset="https://github-profile-trophy.vercel.app/?username=abdulmuhg&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&margin-h=4&column=7"
+      srcset="https://github-profile-trophy.vercel.app/?username=abdulmuhg&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&margin-h=4&column=8"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-profile-trophy.vercel.app/?username=abdulmuhg&theme=flat&no-frame=true&no-bg=false&margin-w=4&margin-h=4&column=7"
+      srcset="https://github-profile-trophy.vercel.app/?username=abdulmuhg&theme=flat&no-frame=true&no-bg=false&margin-w=4&margin-h=4&column=8"
       media="(prefers-color-scheme: light)"
     />
-    <img src="https://github-profile-trophy.vercel.app/?username=abdulmuhg&theme=flat&no-frame=true&no-bg=false&margin-w=4&margin-h=4&column=7" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=abdulmuhg&theme=flat&no-frame=true&no-bg=false&margin-w=4&margin-h=4&column=8" alt="Trophies" />
   </picture>
 </div>
 
